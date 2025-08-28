@@ -6,3 +6,5 @@ uvicorn
 scikit-learn
 hdbscan
 requests
+sqlmodel
+pymysql
